@@ -4,7 +4,7 @@ HTML macOS App Link to System Preferences > Profiles
 Just a simple method to send a mail (HTML Formatted) or host a webpage for users to click a button and be directed to the Profiles pane in System Preferences
 
 
-![](https://github.com/djquazzi/djquazzi.github.io/blob/master/UAMDMAlert/UAMDMAlert.m4v)
+<video src="https://github.com/djquazzi/djquazzi.github.io/blob/master/UAMDMAlert/UAMDMAlert.m4v" poster="poster.jpg" width="320" height="200" controls preload></video>
 
 
 The client will require the small app to be pre-loaded on the machine (literally anyway on the local machine)
