@@ -11,9 +11,10 @@ The client will require the small app to be pre-loaded on the machine (literally
 
 It can look like this:
 
-Here people, please remember to approve our MDM. You can do it here : APPROVELINK
+   Here people, please remember to approve our MDM. You can do it here : APPROVELINK
 
 NOTE The link is formatted like his: uamdmalert:// (It wont be visable on github)
+*Example: <a href="uamdmalert://">APPROVE!</a>*
 
 Simple as that.
 
