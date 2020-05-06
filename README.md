@@ -5,7 +5,9 @@ Just a simple method to send a mail (HTML Formatted) or host a webpage for users
 
 [<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">(https://djquazzi.github.io/uamdmalert/UAMDMAlert.m4v)
 
-https://djquazzi.github.io/uamdmalert/UAMDMAlert.m4v
+[![UAMDMAlert](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://djquazzi.github.io/uamdmalert/UAMDMAlert.m4v "UAMDMAlert")
+
+
 
 
 The client will require the small app to be pre-loaded on the machine (literally anyway on the local machine)
