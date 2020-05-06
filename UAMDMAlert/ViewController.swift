@@ -8,12 +8,17 @@
 
 import Cocoa
 
-class ViewController: NSViewController {
+class ViewController: NSViewController, NSUserNotificationCenterDelegate {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        func profiles() {
+            NSWorkspace.shared.open(URL(fileURLWithPath: "/System/Library/PreferencePanes/Profiles.prefPane"))
+        }
+    
+        profiles()
+        
     }
 
     override var representedObject: Any? {
