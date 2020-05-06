@@ -7,7 +7,7 @@ Just a simple method to send a mail (HTML Formatted) or host a webpage for users
 
 
 The client will require the small app to be pre-loaded on the machine (literally anyway on the local machine)
-* [UAMDMAlert App]* (https://djquazzi.github.io/UAMDMAlert/UAMDMAlert.zip)
+*[UAMDMAlert App]* (https://djquazzi.github.io/UAMDMAlert/UAMDMAlert.zip)
 
 It can look like this:
 
