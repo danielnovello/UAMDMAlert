@@ -9,6 +9,7 @@ The client will require the small app to be pre-loaded on the machine (literally
 It can look like this:
 
 Here people, please remember to approve our MDM. You can do it here : APPROVELINK
+
 NOTE The link is formatted like his: uamdmalert:// (It wont be visable on github)
 
 Simple as that.
