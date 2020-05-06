@@ -8,7 +8,7 @@ The client will require the small app to be pre-loaded on the machine (literally
 
 It can look like this:
 
-** Here people, please remember to approve our MDM.** You can do it here : [Approve!](uamdmalert://)
+** Here people, please remember to approve our MDM.** You can do it here : [Approve!](uamdmalert://#)
 
 Simple as that.
 
